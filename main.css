@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper {
+	margin: 0 auto;
+	height: 1600px;
+	background-color: #666666;
+	width: 900px;
+	border: double;
+}
+body {
+	background-color: #FFFFFF;
+}
+ul li {
+	display: inline;
+list-style:none text-align:centre;
+	padding: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding: 20px;
+	font-size: 36px;
+}
+#slogan {
+	text-align: center; overflow:auto;
+}
+#slogan.h2 {
+	padding: 20px 0;
+}
+h2 {
+	text-align: center;
+	background-image: url(../images/tr.jpg);
+}
+p {
+	background-color: #999;
+	padding: 1px 1px;
+	width: 590px;
+	height: 350px;
+	float: centre;
+	border-style: double;
+	
+	text-align: center;
+	padding: 2px;
+}
+h1 {
+	text-align: center;
+	padding: 30px 0;
+	font-size: 36px;
+	font-style: italic;
+}
+#heroimage {
+	text-align: center;
+}
+.pan {
+	width: 500px;
+	float: left;
+	height: 400px;
+}
+.pann {
+	width: 250px;
+	float: right;
+	height: 400px;
+	padding-left: 150px;
+	padding: 30px 0;
+	padding: 20px;
+	right: auto;
+}
+.one {
+	float: left
+}
+h3 {
+	background-color: #99F;
+	text-align: center;
+	font-size: 36px;
+	font-weight: bold;
+}
+p1{float:right; padding:10px;}
+.img{float:right;}
+.raf{float:right;}
+.fat{float:left;}
+h4{text-align:center;}
+.fat{padding:10px;
+
+}
+
+
